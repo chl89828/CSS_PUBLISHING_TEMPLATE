@@ -1,0 +1,55 @@
+@import "reset.css";
+
+
+/* @import "screens/landing.css"; */
+
+/* @font-face {
+  font-family: "sfcompact";
+  font-weight: 100;
+  src: url("../fonts/SF-Compact-Display-Ultralight.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 200;
+  src: url("../fonts/SF-Compact-Display-Thin.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 300;
+  src: url("../fonts/SF-Compact-Display-Light.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 400;
+  src: url("../fonts/SF-Compact-Display-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 500;
+  src: url("../fonts/SF-Compact-Display-Medium.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 600;
+  src: url("../fonts/SF-Compact-Display-Semibold.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 700;
+  src: url("../fonts/SF-Compact-Display-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 800;
+  src: url("../fonts/SF-Compact-Display-Heavy.otf") format("truetype");
+}
+@font-face {
+  font-family: "sfcompact";
+  font-weight: 900;
+  src: url("../fonts/SF-Compact-Display-Black.otf") format("truetype");
+}
+ */
+
+body {
+
+}
